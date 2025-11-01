@@ -1,0 +1,10 @@
+.env
+*.env
+.streamlit/secrets.toml
+__pycache__/
+*.pyc
+*.pyo
+leakproof_index.json
+*.log
+.DS_Store
+Thumbs.db

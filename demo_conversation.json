@@ -1,0 +1,124 @@
+[
+  {
+    "question": "What is the maximum pump flow?",
+    "answer": "The maximum pump flow for the KEITH LeakProof Drive is 40 gallons per minute (151 liters per minute).",
+    "sources": [
+      {
+        "chunk": {
+          "id": "hydraulic_specs",
+          "text": "Hydraulic Drive Unit Specifications:\n- Cylinder Bore Size: 80 mm or 90 mm\n- Cylinder Stroke: 6 inches (150 mm)\n- Maximum Working Pressure: 3000 PSI (210 bar)\n- Maximum Pump Flow: 40 gallon/minute (151 l/min)\n- Load Capacity: Exceeds Legal Limit",
+          "metadata": {
+            "section": "specifications",
+            "type": "technical_specs"
+          }
+        },
+        "similarity": 0.5112398953501458
+      },
+      {
+        "chunk": {
+          "id": "performance_30gpm",
+          "text": "Performance at 30 gallons/minute (114 l/minute):\n- Floor Speed: 7.5 ft/minute (2.3 m/minute)\n- Unloading Time for 45 ft Trailer: 6 minutes",
+          "metadata": {
+            "section": "performance",
+            "type": "performance_data",
+            "pump_flow": "30"
+          }
+        },
+        "similarity": 0.37785563809623457
+      },
+      {
+        "chunk": {
+          "id": "performance_25gpm",
+          "text": "Performance at 25 gallons/minute (95 l/minute):\n- Floor Speed: 6.25 ft/minute (1.9 m/minute)\n- Unloading Time for 45 ft Trailer: 7.2 minutes",
+          "metadata": {
+            "section": "performance",
+            "type": "performance_data",
+            "pump_flow": "25"
+          }
+        },
+        "similarity": 0.37261664966021457
+      }
+    ]
+  },
+  {
+    "question": "What's the fastest unloading time?",
+    "answer": "The fastest unloading time for a 45 ft trailer using the KEITH LeakProof Drive is 4.5 minutes, which is achieved at a pump flow rate of 40 gallons per minute (151 liters per minute).",
+    "sources": [
+      {
+        "chunk": {
+          "id": "performance_40gpm",
+          "text": "Performance at 40 gallons/minute (151 l/minute):\n- Floor Speed: 9.75 ft/minute (3 m/minute)\n- Unloading Time for 45 ft Trailer: 4.5 minutes (80mm cylinder only)\nNote: Unload/Load times may vary with length of trailer, material type, or other environmental variables.",
+          "metadata": {
+            "section": "performance",
+            "type": "performance_data",
+            "pump_flow": "40"
+          }
+        },
+        "similarity": 0.5382128587531689
+      },
+      {
+        "chunk": {
+          "id": "performance_20gpm",
+          "text": "Performance at 20 gallons/minute (76 l/minute):\n- Floor Speed: 5 ft/minute (1.5 m/minute)\n- Unloading Time for 45 ft Trailer: 9 minutes",
+          "metadata": {
+            "section": "performance",
+            "type": "performance_data",
+            "pump_flow": "20"
+          }
+        },
+        "similarity": 0.5191498402247108
+      },
+      {
+        "chunk": {
+          "id": "performance_25gpm",
+          "text": "Performance at 25 gallons/minute (95 l/minute):\n- Floor Speed: 6.25 ft/minute (1.9 m/minute)\n- Unloading Time for 45 ft Trailer: 7.2 minutes",
+          "metadata": {
+            "section": "performance",
+            "type": "performance_data",
+            "pump_flow": "25"
+          }
+        },
+        "similarity": 0.5112494175740062
+      }
+    ]
+  },
+  {
+    "question": "What materials is this good for?",
+    "answer": "The KEITH LeakProof Drive is ideal for handling the following materials:\n\n- Municipal Solid Waste\n- Medical Waste\n- Silage\n- Cannery Waste\n\nIt is specifically designed for high-moisture loads and can be top or rear loaded, making it suitable for these applications.",
+    "sources": [
+      {
+        "chunk": {
+          "id": "applications",
+          "text": "Ideal Applications for LeakProof Drive:\n- Municipal Solid Waste\n- Medical Waste\n- Silage\n- Cannery Waste\nThe LeakProof Drive is specifically designed for high-moisture loads and can be top or rear loaded. \nIt is compactor compatible.",
+          "metadata": {
+            "section": "applications",
+            "type": "use_cases"
+          }
+        },
+        "similarity": 0.2947089968155618
+      },
+      {
+        "chunk": {
+          "id": "key_features",
+          "text": "Key Features of LeakProof Drive:\n- Ponding ability of up to 12 inches\n- Designed for superior clean out\n- Sealed, interlocking leak-proof sub-deck holds liquids inside trailer\n- Fast unloading speed\n- Drive unit chamber is separate, free from exposure to corrosive liquids\n- Interchangeable cylinders are easy to remove for service\n- Durable and low in maintenance\n- Hydraulic cylinders feature two rods and two pistons for performance\n- Chromation helps protect aluminum components from corrosion\n- Front mounted drive unit",
+          "metadata": {
+            "section": "features",
+            "type": "specifications"
+          }
+        },
+        "similarity": 0.15872519885499217
+      },
+      {
+        "chunk": {
+          "id": "valve_design",
+          "text": "Innovative Valve Design Features:\n- Valve assemblies are easily removed for maintenance\n- Patented switching valve design provides excellent tolerance of dirt and foreign material\n- Pilot operated switching valve eliminates need for switching valve adjustment\n- Requires less maintenance and repair than other brands",
+          "metadata": {
+            "section": "features",
+            "type": "valve_design"
+          }
+        },
+        "similarity": 0.15870218847787965
+      }
+    ]
+  }
+]
